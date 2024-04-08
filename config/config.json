@@ -1,0 +1,16 @@
+{
+  "ifpe": {
+    "username": "aluno",
+    "password": "ifpecjbg",
+    "database": "testandoapi",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "docker-casa": {
+    "username": "root",
+    "password": "root",
+    "database": "appmysql",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
